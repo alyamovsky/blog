@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: Andrew Alyamovsky
+      changes:
+        - comment: Initial empty changelog
